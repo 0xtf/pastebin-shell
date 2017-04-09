@@ -48,3 +48,9 @@ Examples:
 ## Requirements
 
 Only `bash` and `curl`.
+
+## Warning
+
+This is just a hack that I use myself and decided to share. Even though ALL of the code is from the original project, the tiny bit that I changed (based of recommendations) is probably not the best way to do it. I'm REALLY bad at this.
+
+It works for me though. If it works for you too, perfect. If you think it should be done different, feel free to suggest it.
