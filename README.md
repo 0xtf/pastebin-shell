@@ -39,12 +39,11 @@ Run:
 
 Examples:
 
-`pbin < /proc/cpuinfo`
+	pbin < /proc/cpuinfo
 
+	echo -e "foo\nbar" | bash pbin -n "foobar.txt" -l 1
 
-`echo -e "foo\nbar" | bash pbin -n "foobar.txt" -l 1`
-
-'echo "This is a unlisted paste that expires in 1 day." | pbin -l -u USER -p PASSWORD -n NamedPaste -e 1D -r unlisted;'
+	echo "This is a unlisted paste that expires in 1 day." | pbin -l -u USER -p PASSWORD -n NamedPaste -e 1D -r unlisted;
 
 ## Requirements
 
