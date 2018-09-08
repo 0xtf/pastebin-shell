@@ -6,7 +6,7 @@ Bash pastebin.com client. Bash Script to post text from `stdin` to [pastebin.com
 
 Download:
 
-	curl -f https://raw.githubusercontent.com/mefuckin/pastebin-shell/master/pbin -o pbin
+	curl -f https://raw.githubusercontent.com/0xtf/pastebin-shell/master/pbin -o pbin
 	chmod +x pbin
 
 Run:
@@ -51,6 +51,6 @@ Only `bash` and `curl`.
 
 ## Warning
 
-This is just a hack that I use myself and decided to share. Even though ALL of the code is from the original project, the tiny bit that I changed (based of recommendations) is probably not the best way to do it. I'm REALLY bad at this.
+This is just a hack that I use myself and decided to share. Biggest different is support for PRO accounts, that wasn't working in the orignal code.
 
-It works for me though. If it works for you too, perfect. If you think it should be done different, feel free to suggest it.
+This is a hack. It works for me though. If it works for you too, perfect. If you think it should be done different, feel free to suggest it.
